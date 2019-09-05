@@ -1,24 +1,11 @@
-# README
+#SFU Scheduler
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A web application built for my CMPT 276 - Software Engineering course.
 
-Things you may want to cover:
+#What I Learned
 
-* Ruby version
+Developed a user interface within the xml file using RelativeLayout, ListView, EditText, & Button.
+Implemented functinality to the UI: onCreate, onAddItem, setupListViewListener, readItems, & writeItems.
+Integrated setOnItemLongClickListener to remove items from the list.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Developed a user interface using HTML, CSS, BootStrap and Ruby on Rails. Implemented functionaility to the UI by using agile methodology. 
